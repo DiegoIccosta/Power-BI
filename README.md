@@ -21,7 +21,7 @@ Abaixo, a lista dos projetos contidos neste portfólio. Clique no nome de cada p
 * **[Mini-Projeto 06]** (Link para a pasta, será criado depois)
     * *Descrição:* Descrição breve sobre o Mini-Projeto 06 (ex: "Análise de estoque e suprimentos.").
 
-*(Substitua as descrições entre parênteses para os "Mini-Projetos" por algo mais específico se você souber o tema deles!)*
+
 
 ## Sobre Mim:
 
