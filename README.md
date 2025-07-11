@@ -14,7 +14,7 @@ Abaixo, a lista dos projetos contidos neste portfólio. Clique no nome de cada p
 
 * **[Dashboard Analítico de Vendas Globais]** (Link: https://github.com/DiegoIccosta/Power-BI/tree/main/Dashboard_Vendas_Globais)
     * *Descrição:* Um dashboard completo para análise de vendas, com foco em métricas globais e segmentação.
-* **[Mini-Projeto 01]** (Link para a pasta, será criado depois)
+* **[Análise_Campanhas_de_Marketing]** (Link: https://github.com/DiegoIccosta/Power-BI/tree/main/Analise_Campanhas_de_Marketing)
     * *Descrição:* Descrição breve sobre o Mini-Projeto 01 (ex: "Análise de dados de RH.").
 * **[Mini-Projeto 03]** (Link para a pasta, será criado depois)
     * *Descrição:* Descrição breve sobre o Mini-Projeto 03 (ex: "Relatório de desempenho de marketing.").
